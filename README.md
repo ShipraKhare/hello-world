@@ -1,4 +1,3 @@
-# hello-world
-My repository
-Hi Class!
-Shipra here, I am a MSBA student and planning to graduate this quarter.
+# team-3_project1
+
+Team Nickname: The Data ProSASsors
